@@ -4,8 +4,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rakovog)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakovog)](https://github.com/rakovog/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakovog)]
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=rakovog)](https://github.com/rakovog/leetcode-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rakovog&repo=github-readme-stats)](https://github.com/rakovog/github-readme-stats)
 <!--
 **rakovog/rakovog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
